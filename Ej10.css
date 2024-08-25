@@ -1,0 +1,55 @@
+header,#quehizo,#nombrecreador,#puesto{
+    font-family: sans-serif;
+}
+#instituciondetabla{
+    margin-left: 15%;
+}
+#gobierno{
+    font-weight: lighter;
+    margin-right:30px ;
+    margin-bottom: -2%;
+}
+.NroPagina{
+    margin-left: 500px;
+}
+.DesplazadosDer{
+    text-align: right;
+    margin-right: 15px;
+}
+section, table{
+    margin:0 auto;
+    
+    align-content: center;
+    border-collapse: collapse;
+}
+section{
+    margin-top: 50px;
+}
+table{
+    margin-top: 20px;
+    font-size: small;
+    width: 70%;
+}
+td,th{
+    height: 20px;
+}
+#Nombres{
+    margin: 0 auto;
+    text-decoration: underline;
+}
+#CabezaTabla{
+    background-color: rgb(194, 194, 194);
+}
+#quehizo,#nombrecreador,#puesto{
+    text-align: center;
+    margin-right: 30%;
+}
+#quehizo,#puesto{
+    font-size: small;
+}
+#puesto{
+    margin-top: -1%;
+}
+#nombrecreador{
+    font-size: medium;
+}
